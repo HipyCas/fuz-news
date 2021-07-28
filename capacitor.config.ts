@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'net.hipycas.fuznews',
-  appName: 'fuz-news',
+  appName: 'Fuz News',
   webDir: 'dist',
   bundledWebRuntime: false
 };
